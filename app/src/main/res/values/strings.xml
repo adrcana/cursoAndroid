@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DataBase</string>
+    <string name="btn_registrar">Registrar Usuario</string>
+    <string name="btn_consultarUser">Consultar Usuario</string>
+    <string name="btn_consultars">Consultar Spinner</string>
+    <string name="btn_consultarl">Consultar ListView</string>
+
+    <string name="txt_id">id</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_telefono">telefono</string>
+
+    <string name="btn_actualizar">Actualizar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_Eliminar">Eliminar</string>
+
+    <string name="detalle_dueño">DETALLE DEL DUEÑO</string>
+    <string name="detalle_mascota">DETALLE DE MASCOTA</string>
+
+    <string name="txt_id_mascota">Id Mascota</string>
+    <string name="txt_nombre_mascota">Nombre Mascota</string>
+    <string name="txt_raza">Raza</string>
+
+</resources>
